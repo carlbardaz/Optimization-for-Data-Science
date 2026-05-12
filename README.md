@@ -12,7 +12,6 @@ Questo repository contiene l'implementazione di un risolutore personalizzato bas
 
 ## 🎯 Obiettivo del Progetto
 Il solver affronta il problema di ottimizzazione quadratica vincolata:
-$$\min \left\{ \frac{1}{2}x^T Q x + q^T x \right\}$$
 $$\min { \frac{1}{2}x^T Q x + q^T x }$$
 soggetto a:
 - **Vincoli di bilancio:** $Ex = b$
